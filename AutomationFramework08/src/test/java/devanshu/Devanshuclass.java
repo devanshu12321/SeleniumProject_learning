@@ -8,7 +8,7 @@ public class Devanshuclass {
 		public void test()
 		{
 			Reporter.log("Devanshu class added",true);
-			Reporter.log("My class is added", true);
+			Reporter.log("My class is added ", true);
 		}
 	
 
